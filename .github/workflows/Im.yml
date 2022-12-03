@@ -19,6 +19,6 @@
         message = "1000000"  
      } else {
         message = "Gratulacje, to właściwa liczba"
-     get.ElementbyId "skrypt.js"
+     get.ElementbyId "index.js"
      }
 
